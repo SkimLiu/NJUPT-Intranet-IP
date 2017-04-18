@@ -1,0 +1,78 @@
+Host: 10.5.42.15 ()	Ports: 8080/open/tcp//http//Microsoft IIS httpd 7.5/
+Host: 10.5.42.18 ()	Ports: 8080/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/
+Host: 10.6.2.98 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.6.2.140 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.6.2.149 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.6.2.163 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.6.2.187 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.6.2.234 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.6.2.235 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.6.3.200 ()	Ports: 8080/open/tcp//http//Jetty 8.y.z-SNAPSHOT/
+Host: 10.10.20.151 ()	Ports: 8080/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/
+Host: 10.10.20.213 ()	Ports: 8080/open/tcp//http//Microsoft IIS httpd 6.0/
+Host: 10.10.22.34 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.10.22.87 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.10.22.89 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.10.22.96 ()	Ports: 8080/open/tcp//http//Oracle XML DB Enterprise Edition httpd/
+Host: 10.10.22.158 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.10.22.160 ()	Ports: 8080/open/tcp//http-proxy//HAProxy http proxy 1.3.1 or later/
+Host: 10.10.23.10 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.10.205.222 ()	Ports: 8080/open/tcp//http//Apache httpd/
+Host: 10.10.240.246 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.10.242.103 ()	Ports: 8080/open/tcp//http//Apache httpd 2.0.63 ((Win32) PHP|5.2.14)/
+Host: 10.20.126.12 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.20.126.23 ()	Ports: 8080/open/tcp//http//Microsoft IIS httpd 6.0/
+Host: 10.20.126.29 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.20.126.43 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.20.126.44 ()	Ports: 8080/open/tcp//http-proxy?///
+Host: 10.20.232.5 ()	Ports: 8080/open/tcp//tcpwrapped///
+Host: 10.20.232.6 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.20.232.10 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.20.232.11 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.20.232.16 ()	Ports: 8080/open/tcp//http//Mongoose httpd 3.7 (directory listing)/
+Host: 10.20.254.100 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.22.190.9 ()	Ports: 8080/open/tcp//http-proxy//product only/
+Host: 10.22.242.2 ()	Ports: 8080/open/tcp//http//Apache httpd 2.4.6 ((CentOS) PHP|5.4.16 mod_wsgi|3.4 Python|2.7.5 mod_fastcgi|mod_fastcgi-SNAP-0910052141)/
+Host: 10.22.246.11 ()	Ports: 8080/open/tcp//http//Microsoft IIS httpd 7.5/
+Host: 10.22.247.5 ()	Ports: 8080/open/tcp//http//Jetty 6.1.x/
+Host: 10.22.248.248 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.22.249.31 ()	Ports: 8080/open/tcp//http//Apache httpd (PHP 5.2.17p1)/
+Host: 10.22.249.32 ()	Ports: 8080/open/tcp//http//Apache httpd (PHP 5.2.17p1)/
+Host: 10.22.254.222 ()	Ports: 8080/open/tcp//soap//gSOAP 2.7/
+Host: 10.80.35.92 ()	Ports: 8080/open/tcp//http//gSOAP 2.7 (HP MFP printer)/
+Host: 10.81.48.79 ()	Ports: 8080/open/tcp//http//Mbedthis-Appweb 12.0.0/
+Host: 10.128.0.108 ()	Ports: 8080/open/tcp//soap//gSOAP 2.7/
+Host: 10.128.0.109 ()	Ports: 8080/open/tcp//http//HP LaserJet Pro MFP config httpd (model: M128fw; private IP: 10.128.0.109)/
+Host: 10.128.0.111 ()	Ports: 8080/open/tcp//soap//gSOAP 2.7/
+Host: 10.128.0.114 ()	Ports: 8080/open/tcp//http//HP LaserJet CP1205nw or P1606 http config/
+Host: 10.128.5.149 ()	Ports: 8080/open/tcp//http//Embedthis HTTP lib httpd/
+Host: 10.128.14.88 ()	Ports: 8080/open/tcp//http//HP LaserJet CP1205nw or P1606 http config/
+Host: 10.128.29.53 ()	Ports: 8080/open/tcp//http//Mbedthis-Appweb 2.5.0/
+Host: 10.128.29.127 ()	Ports: 8080/open/tcp//http//Embedthis HTTP lib httpd/
+Host: 10.128.40.101 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.128.48.154 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.128.53.169 ()	Ports: 8080/open/tcp//soap//gSOAP 2.7/
+Host: 10.128.54.49 ()	Ports: 8080/open/tcp//soap//gSOAP 2.7/
+Host: 10.128.55.155 ()	Ports: 8080/open/tcp//soap//gSOAP 2.7/
+Host: 10.128.56.103 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.128.62.12 ()	Ports: 8080/open/tcp//http-proxy//Mrvl-R1_0/
+Host: 10.130.53.247 ()	Ports: 8080/open/tcp//http//lighttpd 1.4.35/
+Host: 10.130.61.127 ()	Ports: 8080/open/tcp//http-proxy///
+Host: 10.160.16.110 ()	Ports: 8080/open/tcp//http//Apache httpd 2.0.63 ((Win32) PHP|5.2.14)/
+Host: 10.160.25.108 ()	Ports: 8080/open/tcp//http//Mbedthis-Appweb 2.5.0/
+Host: 10.160.39.181 ()	Ports: 8080/open/tcp//http//gSOAP 2.7 (HP MFP printer)/
+Host: 10.160.56.114 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.160.56.118 ()	Ports: 8080/open/tcp//soap//gSOAP 2.7/
+Host: 10.160.71.177 ()	Ports: 8080/open/tcp//http//Embedthis HTTP lib httpd/
+Host: 10.160.75.230 ()	Ports: 8080/open/tcp//http//Embedthis HTTP lib httpd/
+Host: 10.160.111.103 ()	Ports: 8080/open/tcp//http//Jetty 8.y.z-SNAPSHOT/
+Host: 10.160.158.235 ()	Ports: 8080/open/tcp//soap//gSOAP 2.7/
+Host: 10.160.168.32 ()	Ports: 8080/open/tcp//http//HP LaserJet CP1205nw or P1606 http config/
+Host: 10.163.174.41 ()	Ports: 8080/open/tcp//http//Embedthis HTTP lib httpd/
+Host: 10.164.25.245 ()	Ports: 8080/open/tcp//http//gSOAP 2.7 (HP MFP printer)/
+Host: 10.164.37.148 ()	Ports: 8080/open/tcp//http//gSOAP 2.7 (HP MFP printer)/
+Host: 10.164.56.49 ()	Ports: 8080/open/tcp//http//gSOAP 2.7 (HP MFP printer)/
+Host: 10.166.0.82 ()	Ports: 8080/open/tcp//http-proxy///
+Host: 10.166.3.100 ()	Ports: 8080/open/tcp//http//Pcounter httpd/
+Host: 10.166.12.2 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
+Host: 10.166.12.36 ()	Ports: 8080/open/tcp//http//Apache Tomcat|Coyote JSP engine 1.1/
