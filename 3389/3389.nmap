@@ -1,0 +1,180 @@
+Host: 10.5.11.250 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.5.42.15 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.5.42.18 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.155 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.156 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.157 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.159 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.6.2.181 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.182 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.183 ()	Ports: 3389/open/tcp//tcpwrapped///
+Host: 10.6.2.186 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.196 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.219 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.223 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.243 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.2.244 ()	Ports: 3389/open/tcp//tcpwrapped///
+Host: 10.6.3.22 ()	Ports: 3389/open/tcp//tcpwrapped///
+Host: 10.6.3.61 ()	Ports: 3389/open/tcp//ms-wbt-server//xrdp/
+Host: 10.6.20.14 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.21.8 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.21.9 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.6.21.14 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.20.60 ()	Ports: 3389/open/tcp//tcpwrapped///
+Host: 10.10.20.63 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.20.64 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.20.132 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.20.143 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.20.151 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.20.213 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.5 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.12 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.15 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.19 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.21 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.22 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.34 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.35 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.36 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.37 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.87 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.89 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.90 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.91 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.94 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.96 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.22.99 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.158 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.196 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.201 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.22.220 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.22.235 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.22.245 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.23.10 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.23.191 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.23.200 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.24.44 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.24.170 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.24.183 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.10.43.241 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.43.242 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.205.9 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.205.221 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.242.103 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.10.244.244 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.66.100 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.20.66.104 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.20.66.166 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.20.124.5 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.124.6 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.4 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.5 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.8 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.9 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.10 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.12 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.13 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.16 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.17 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.20 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.23 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.43 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.126.46 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.148.8 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.148.9 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.148.17 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.149.140 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.160.214 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.20.222.1 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.222.2 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.223.112 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.232.5 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.232.6 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.232.10 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.232.16 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.232.19 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.232.21 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.232.30 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.232.237 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.20.254.100 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.190.12 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.22.199.244 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.22.199.245 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.22.244.7 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.22.244.55 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.244.78 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.244.90 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.246.11 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.22.247.7 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.22.248.241 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.248.242 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.248.243 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.248.244 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.248.245 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.248.246 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.248.247 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.248.248 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.22.249.1 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.22.250.24 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.22.254.100 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.1.179 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.8.101 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.16.105 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.24.105 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.24.138 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.128.26.143 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.27.250 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.29.43 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.128.53.228 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.54.68 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.56.103 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.128.251.2 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.160.16.104 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.160.16.105 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.16.110 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.25.10 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.25.154 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.28.75 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.31.125 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.31.161 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.31.162 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.160.32.119 ()	Ports: 3389/open/tcp//ms-wbt-server//xrdp/
+Host: 10.160.32.122 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.38.206 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.56.102 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.64.101 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.64.170 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.160.64.212 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.160.65.132 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.160.68.46 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.70.175 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.81.2 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.82.191 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.83.146 ()	Ports: 3389/open/tcp//ms-wbt-server//xrdp/
+Host: 10.160.87.105 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.88.101 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.111.72 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.160.111.102 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.160.168.22 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.163.69.81 ()	Ports: 3389/open/tcp//ms-wbt-server//xrdp/
+Host: 10.164.5.59 ()	Ports: 3389/open/tcp//tcpwrapped///
+Host: 10.166.0.69 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.166.0.70 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.166.0.81 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.166.0.82 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.166.0.83 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.166.0.84 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.166.8.8 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.8.11 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.8.12 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.8.15 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.8.29 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.8.30 ()	Ports: 3389/open/tcp//ssl|ms-wbt-server?///
+Host: 10.166.10.10 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.10.11 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.10.12 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.12.11 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.13.11 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.31.1 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.31.2 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
+Host: 10.166.32.2 ()	Ports: 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/
