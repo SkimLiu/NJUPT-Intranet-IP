@@ -36,7 +36,6 @@ Host: 10.10.24.229 ()	Ports: 23/open/tcp//telnet//BusyBox telnetd/
 Host: 10.10.244.10 ()	Ports: 23/open/tcp//telnet///
 Host: 10.10.244.11 ()	Ports: 23/open/tcp//telnet///
 Host: 10.10.244.169 ()	Ports: 23/open/tcp//telnet///
-
 Host: 10.20.124.1 ()	Ports: 23/open/tcp//telnet//Cisco IOS telnetd/
 Host: 10.20.125.20 ()	Ports: 23/open/tcp//telnet//Cisco IOS telnetd/
 Host: 10.20.126.18 ()	Ports: 23/open/tcp//telnet//BusyBox telnetd/
