@@ -1,0 +1,46 @@
+Host: 10.5.9.3 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2012/
+Host: 10.5.42.15 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.5.42.18 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.10.20.43 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2014 12.00.2000/
+Host: 10.10.20.60 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.10.20.64 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.10.20.213 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.10.22.15 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.10.22.35 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2005 9.00.1399; RTM/
+Host: 10.10.22.37 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.6000; SP3/
+Host: 10.10.205.9 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2005 9.00.1399; RTM/
+Host: 10.20.126.4 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.126.5 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.126.8 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.126.10 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.126.12 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2005 9.00.1399; RTM/
+Host: 10.20.126.13 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.126.16 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.766; SP3a/
+Host: 10.20.126.23 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 10.00.2531; SP1/
+Host: 10.20.126.43 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2005 9.00.4035; SP3/
+Host: 10.20.126.46 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.4000; SP2/
+Host: 10.20.161.250 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.20.232.5 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.232.6 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2005 9.00.1399; RTM/
+Host: 10.20.232.11 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.232.16 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.232.19 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.20.232.30 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2005 9.00.1399; RTM/
+Host: 10.22.199.242 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.22.246.11 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.4000; SP2/
+Host: 10.22.247.7 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 10.00.1600; RTM/
+Host: 10.22.249.1 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 10.00.1600; RTM/
+Host: 10.128.25.162 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2005 9.00.1399; RTM/
+Host: 10.128.26.143 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.128.40.122 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.160.31.125 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2005 9.00.1399; RTM/
+Host: 10.160.168.21 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2000 8.00.2039; SP4/
+Host: 10.160.168.22 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.160.168.34 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.166.8.11 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.166.8.12 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 10.00.2531; SP1/
+Host: 10.166.8.15 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 10.00.1600; RTM/
+Host: 10.166.10.11 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 R2 10.50.1600; RTM/
+Host: 10.166.10.12 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 10.00.2531; SP1/
+Host: 10.166.12.11 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 10.00.2531; SP1/
+Host: 10.166.13.11 ()	Ports: 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2008 10.00.2531; SP1/
